@@ -9,6 +9,15 @@ Two different models are implemented and compared:
 
 ---
 
+Dataset Used:
+IMDB Dataset of 50K Movie Reviews
+
+Source:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+Description:
+This dataset contains 50,000 movie reviews labeled as positive or negative and is commonly used for sentiment analysis tasks.
+
 ## 🚀 Features
 - Text preprocessing using NLP techniques
 - Tokenization and sequence padding
